@@ -15,5 +15,9 @@ Some more changes for testing
 Even more changes for testing
 
 ***
+<<<<<<< HEAD
 Hello World!
 
+=======
+This is master Stuff :D
+>>>>>>> master
