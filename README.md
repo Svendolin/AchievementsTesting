@@ -10,3 +10,5 @@ And all the others!
 
 ***
 This one is done with the AddSomeStuffBranch. Dope, right?
+***
+This is the line from master which should be there and not the other line from the conflicts branch
