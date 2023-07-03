@@ -9,13 +9,4 @@ And all the others!
 :D
 
 ***
-Some more changes for testing
-
-***
-Even more changes for testing
-
-***
-This is master Stuff :D
-
-***
-Bugfix by Bugfix Branch + Some more
+This one is done with the AddSomeStuffBranch
