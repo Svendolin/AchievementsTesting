@@ -10,3 +10,5 @@ And all the others!
 
 ***
 This one is done with the AddSomeStuffBranch. Dope, right?
+***
+Time for a little conflict, lets's try!
