@@ -1,5 +1,15 @@
-Branch Allgemein: MASTER
-Branch für Sven: (svendolin)
-Branch für Gian-Carlo: (opacarlo)
-Branch für Dominic: (domizep)
-Branch für Nadine: (nadinek)
+# ignores that specific file #
+filetoignore.html
+
+# ignores the file in the specified directory #
+src/anotherfiletoignore.html
+
+# ignores all files in this folder #
+images/*
+
+# BUT it excludes a specific file in that folder, so this one wont be exluded #
+!images/keepme.jpg
+
+# Ignores all files with the specified extension like .zip #
+*.zip
+```
