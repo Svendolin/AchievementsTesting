@@ -1,7 +1,7 @@
 # ignores that specific file #
 filetoignore.html
 
-# ignores the file in the specified folder of src #
+# ignores the file in the specified directory #
 src/anotherfiletoignore.html
 
 # ignores all files in this folder #
